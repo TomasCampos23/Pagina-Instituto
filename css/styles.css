@@ -1,0 +1,51 @@
+body{
+    font-family: 'Krub', sans-serif;
+}
+
+.cabecera{
+    display: block;
+    padding: 40px;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    background: black;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+
+.menu li a:hover{
+    background:red;
+}
+
+section img{
+    width: 90%;
+    max-width: 1000px;
+    margin-top: 40px;
+    margin-left: 220px;
+}
+
+.carreras{
+    margin-left: 180px;
+}
+
+footer{
+    margin-left: 550px;
+}
